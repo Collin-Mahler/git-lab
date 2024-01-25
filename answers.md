@@ -44,4 +44,19 @@ Author: Collin Mahler <cm171520@ohio.edu>
 Date:   Wed Jan 24 18:46:12 2024 -0500
 
     Initial commit
-Answer 9: 
+Answer 9: On branch main
+Your branch is ahead of 'origin/main' by 1 commit.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working tree clean
+Answer 10: No
+Answer 11: To https://github.com/Collin-Mahler/git-lab.git
+ ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'https://github.com/Collin-Mahler/git-lab.git'
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+Answer 12: Yes
+Answer 13: .  ..  .git  .gitignore  README.md
